@@ -1,20 +1,20 @@
 ### Hi there 👋 (this is a work in progress)
 
-Super quick bio:
-<table>
+<table style="padding:0;width:100%;">
+  <caption>Super Quick Bio</caption>
   <tr>
     <td>
-        <details>
-          <summary>Family</summary>
-          <dl>  
-            <dt>Wife</dt>
-            <dd>I'm incredibly lucky to have the most amazing and supportive wife who puts up with weird work hours and intermittently stressful work sessions.</dd>
-            <dt>Son</dt>
-            <dd>I've got an older child that is as technically savvy as they come, not even a teenager and already a good Python programmer, debugger, master of OBS, and gamer, not to mention an incredible competitive swimmer.</dd>
-            <dt>Son</dt>
-            <dd>I've got a younger son that is as creative as he is talented, with a lifelong drive to create diverse music and a side goal of collecting every vintage game console and cartridge.</dd>
-          </dl>
-        </details>
+      <details>
+        <summary>Family</summary>
+        <dl>  
+          <dt>Wife</dt>
+          <dd>I'm incredibly lucky to have the most amazing and supportive wife who puts up with weird work hours and intermittently stressful work sessions.</dd>
+          <dt>Son</dt>
+          <dd>I've got an older child that is as technically savvy as they come, not even a teenager and already a good Python programmer, debugger, master of OBS, and gamer, not to mention an incredible competitive swimmer.</dd>
+          <dt>Son</dt>
+          <dd>I've got a younger son that is as creative as he is talented, with a lifelong drive to create diverse music and a side goal of collecting every vintage game console and cartridge.</dd>
+        </dl>
+      </details>
     </td>
     <td>
       <details>
