@@ -1,37 +1,29 @@
 ### Hi there 👋 (this is a work in progress)
 
-<table style="padding:0;width:100%;">
-  <caption>Super Quick Bio</caption>
-  <tr>
-    <td>
-      <details>
-        <summary>Family</summary>
-        <dl>  
-          <dt>Wife</dt>
-          <dd>I'm incredibly lucky to have the most amazing and supportive wife who puts up with weird work hours and intermittently stressful work sessions.</dd>
-          <dt>Son</dt>
-          <dd>I've got an older child that is as technically savvy as they come, not even a teenager and already a good Python programmer, debugger, master of OBS, and gamer, not to mention an incredible competitive swimmer.</dd>
-          <dt>Son</dt>
-          <dd>I've got a younger son that is as creative as he is talented, with a lifelong drive to create diverse music and a side goal of collecting every vintage game console and cartridge.</dd>
-        </dl>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>Work</summary>
-        <dl>  
-          <dt>School</dt>
-          <dd>I spent a long time in school getting degrees and taking classes from same amazing mechanical engineering professors.</dd>
-          <dt>Work</dt>
-          <dd>I'm having a great time leading development efforts on the building simulation tool EnergyPlus for the National Renewable Energy Laboratory.</dd>
-        </dl>
-      </details>
-    </td>
-  </tr>
-</table>
+[![My Live GitHub stats](https://github-readme-stats.vercel.app/api?username=myoldmopar&show_icons=true&theme=great-gatsby)](https://github.com/myoldmopar/)
 
+Biographics:
 
-
+<details>
+    <summary>Family</summary>
+    <dl>  
+      <dt>Wife</dt>
+      <dd>I'm incredibly lucky to have the most amazing and supportive wife who puts up with weird work hours and intermittently stressful work sessions.</dd>
+      <dt>Son</dt>
+      <dd>I've got an older child that is as technically savvy as they come, not even a teenager and already a good Python programmer, debugger, master of OBS, and gamer, not to mention an incredible competitive swimmer.</dd>
+      <dt>Son</dt>
+      <dd>I've got a younger son that is as creative as he is talented, with a lifelong drive to create diverse music and a side goal of collecting every vintage game console and cartridge.</dd>
+    </dl>
+    </details>
+    <details>
+    <summary>Work</summary>
+    <dl>  
+      <dt>School</dt>
+      <dd>I spent a long time in school getting degrees and taking classes from same amazing mechanical engineering professors.</dd>
+      <dt>Work</dt>
+      <dd>I'm having a great time leading development efforts on the building simulation tool EnergyPlus for the National Renewable Energy Laboratory.</dd>
+    </dl>
+</details>
 
 I've been lucky enough to work on a diverse set of projects in my modest amount of years on this planet. Here are some
 details on my coding experience:
@@ -70,7 +62,7 @@ details on my coding experience:
   </dl>
 </details>
 
-A full list of languages, tools, and packages I've become familiar with over the years
+A "full" list of languages, tools, and packages I've become familiar with over the years:
 
 <details>
   <summary>Operating Systems</summary>
@@ -95,6 +87,10 @@ A full list of languages, tools, and packages I've become familiar with over the
     <li>Many Shell Scripting Languages</li>
   </ul>
 </details>
+
+Github Language Breakdown:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myoldmopar&hide=html&layout=compact)](https://github.com/myoldmopar)
 
 <details>
   <summary>Other</summary>
