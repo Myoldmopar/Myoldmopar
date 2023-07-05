@@ -69,7 +69,7 @@
 - Flexible integration of diverse HVAC technologies in EnergyPlus via Python-enabled workflow
 --->
 
-### Coding Experience:
+### Coding Experience
 
 <details>
   <summary>Early Years</summary> 
